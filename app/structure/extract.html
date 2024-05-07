@@ -1,4 +1,17 @@
 {% extends "base.html" %}
 {% block content %}
-  <p class="section__description">This is extract file</p>
+  {% if error is defined%}
+  <div class="error mt-3" role="alert">
+    <strong>Error!</strong>{{error}}
+    <button type="button" class="button-close" aria-label="Close"></button>
+  </div>
+
+  {% endif %}
+<form method="post" class="form" action="{{ url_for'extract'}}">
+  <div class="input-group mb-3">
+    <input name="product_id" id="product_id" type="text" class="form-control" placeholder="Enter product code" aria-describedby="button-addon2" required="">
+    <button class="btn btn-outline-secondary" type="button" id="button-addon2">Reach</button>
+  </div>
+</form>
+
 {% endblock %}

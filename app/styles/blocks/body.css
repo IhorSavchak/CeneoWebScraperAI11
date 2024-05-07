@@ -1,0 +1,9 @@
+p, h1 {
+  margin: 0;
+}
+
+.page__body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-block-end: 70px;
+  margin: auto
+}

@@ -1,6 +1,6 @@
 .header {
-  color: var(--header-font-color);
-  background-color: var(--background-color);
+  color: #a38c63;
+  background-color: #2a251f;
   text-align: center;
   padding-block: 5px;
 }

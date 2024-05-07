@@ -4,8 +4,8 @@
   display: flex;
   bottom: 0;
   width: 100%;
-  height: var(--footer-height);
-  background-color: var(--background-color);
+  height: 70px;
+  background-color: #2a251f;
   padding-inline: 10px;
   gap: 20px;
   align-items: center;
