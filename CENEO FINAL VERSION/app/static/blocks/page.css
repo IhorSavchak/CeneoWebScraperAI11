@@ -9,7 +9,10 @@ table, th, td {
 }
 
 .page__body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: medium;
   position: relative;
   margin: 0;
+  background-color: antiquewhite;
   padding-block-end: var(--footer-height);
 }

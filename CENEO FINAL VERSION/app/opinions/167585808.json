@@ -1,0 +1,18 @@
+[
+    {
+        "opinion_id": "18709303",
+        "author": "James Sony",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Extra",
+            "en": "Extra"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-06-02 13:20:58",
+        "purchase_date": "2024-06-05 09:14:33"
+    }
+]

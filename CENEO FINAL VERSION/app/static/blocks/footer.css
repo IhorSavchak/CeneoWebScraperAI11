@@ -8,4 +8,7 @@
   padding-inline: 10px;
   gap: 20px;
   align-items: center;
+  background-color: rgba(253, 198, 115, 0.5);
+  box-shadow:10px;
+  box-shadow: darkgray;
 }

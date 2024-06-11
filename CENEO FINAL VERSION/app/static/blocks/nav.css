@@ -2,13 +2,17 @@
   display: flex;
   justify-content: left;
   list-style: none;
+  background-color: #d4992c94;
+  border-radius: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: normal;
 }
 
 .nav__link {
   display: flex;
   align-items: center;
   height: var(--nav-item-height);
-  padding-inline: 15px;
+  padding-inline: 210px;
   color: #000;  
   text-decoration: none;
   transition: .2s;

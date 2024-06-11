@@ -3,4 +3,8 @@
   gap: 100px;
   text-align: center;
   padding: 10px;
+  display: block;
+  background-color: rgba(253, 198, 115, 0.5);
+  box-shadow: 2px;
+  border-radius: 10px;
 }

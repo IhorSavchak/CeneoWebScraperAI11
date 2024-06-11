@@ -1,0 +1,26 @@
+{
+    "product_id": "73914005",
+    "product_name": "TEFAL Ultimate Pure FV9845",
+    "opinions_count": 128,
+    "pros_count": 67,
+    "cons_count": 16,
+    "average_score": 4.66796875,
+    "score_distribution": {
+        "0.0": 0,
+        "0.5": 1,
+        "1.0": 0,
+        "1.5": 0,
+        "2.0": 1,
+        "2.5": 4,
+        "3.0": 2,
+        "3.5": 1,
+        "4.0": 8,
+        "4.5": 23,
+        "5.0": 88
+    },
+    "recommendation_distribution": {
+        "true": 116,
+        "false": 6,
+        "NaN": 0
+    }
+}
