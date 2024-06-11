@@ -3,9 +3,13 @@ p, h1, ul {
   padding: 0;
 }
 
+table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
 .page__body {
   position: relative;
-  font-family: Georgia, 'Times New Roman', Times, serif;
   margin: 0;
-  padding-block-end: 20px
+  padding-block-end: var(--footer-height);
 }

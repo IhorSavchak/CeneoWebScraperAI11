@@ -2,5 +2,5 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    gap: 75px;
+    gap: 100px;
 }
