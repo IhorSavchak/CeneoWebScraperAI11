@@ -1,0 +1,15 @@
+p, h1, ul {
+  margin: 0;
+  padding: 0;
+}
+
+table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+.page__body {
+  position: relative;
+  margin: 0;
+  padding-block-end: var(--footer-height);
+}

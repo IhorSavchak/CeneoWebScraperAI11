@@ -1,0 +1,11 @@
+.footer {
+  box-sizing: border-box;
+  position: fixed;
+  display: flex;
+  bottom: 0;
+  width: 100%;
+  height: var(--footer-height);
+  padding-inline: 10px;
+  gap: 20px;
+  align-items: center;
+}
